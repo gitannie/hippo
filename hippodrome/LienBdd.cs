@@ -11,7 +11,7 @@ namespace hippodrome
         //
         // propriétés membres
         //
-        // test modif 2222222222222222222222222222
+        
         private SqlConnection cn;
         private SqlCommand cde;
         private SqlDataAdapter da;
