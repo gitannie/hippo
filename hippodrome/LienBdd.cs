@@ -13,6 +13,7 @@ namespace hippodrome
         //
         // nouvelle modif de develop
         // ajouetr dans developv2
+        // ajoueter 3e
         private SqlConnection cn;
         private SqlCommand cde;
         private SqlDataAdapter da;
