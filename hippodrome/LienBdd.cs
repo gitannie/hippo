@@ -12,6 +12,7 @@ namespace hippodrome
         // propriétés membres
         //
         // nouvelle modif de develop
+        // ajouetr dans developv2
         private SqlConnection cn;
         private SqlCommand cde;
         private SqlDataAdapter da;
